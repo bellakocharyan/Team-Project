@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Team-Project/public/static/css/main.780a1ba8.chunk.css",
+    "main.js": "/Team-Project/public/static/js/main.0c12d4bb.chunk.js",
+    "main.js.map": "/Team-Project/public/static/js/main.0c12d4bb.chunk.js.map",
+    "runtime-main.js": "/Team-Project/public/static/js/runtime-main.1299d593.js",
+    "runtime-main.js.map": "/Team-Project/public/static/js/runtime-main.1299d593.js.map",
+    "static/js/2.48b3d0a1.chunk.js": "/Team-Project/public/static/js/2.48b3d0a1.chunk.js",
+    "static/js/2.48b3d0a1.chunk.js.map": "/Team-Project/public/static/js/2.48b3d0a1.chunk.js.map",
+    "static/js/3.53c8a004.chunk.js": "/Team-Project/public/static/js/3.53c8a004.chunk.js",
+    "static/js/3.53c8a004.chunk.js.map": "/Team-Project/public/static/js/3.53c8a004.chunk.js.map",
+    "static/css/4.228ab2f0.chunk.css": "/Team-Project/public/static/css/4.228ab2f0.chunk.css",
+    "static/js/4.151cf6bf.chunk.js": "/Team-Project/public/static/js/4.151cf6bf.chunk.js",
+    "static/js/4.151cf6bf.chunk.js.map": "/Team-Project/public/static/js/4.151cf6bf.chunk.js.map",
+    "static/js/5.0e170526.chunk.js": "/Team-Project/public/static/js/5.0e170526.chunk.js",
+    "static/js/5.0e170526.chunk.js.map": "/Team-Project/public/static/js/5.0e170526.chunk.js.map",
+    "static/js/6.84229f47.chunk.js": "/Team-Project/public/static/js/6.84229f47.chunk.js",
+    "static/js/6.84229f47.chunk.js.map": "/Team-Project/public/static/js/6.84229f47.chunk.js.map",
+    "static/js/7.559499cf.chunk.js": "/Team-Project/public/static/js/7.559499cf.chunk.js",
+    "static/js/7.559499cf.chunk.js.map": "/Team-Project/public/static/js/7.559499cf.chunk.js.map",
+    "static/js/8.1c2ec057.chunk.js": "/Team-Project/public/static/js/8.1c2ec057.chunk.js",
+    "static/js/8.1c2ec057.chunk.js.map": "/Team-Project/public/static/js/8.1c2ec057.chunk.js.map",
+    "index.html": "/Team-Project/public/index.html",
+    "precache-manifest.658f6da38dd4a848e5135ae8c53b6b13.js": "/Team-Project/public/precache-manifest.658f6da38dd4a848e5135ae8c53b6b13.js",
+    "service-worker.js": "/Team-Project/public/service-worker.js",
+    "static/css/4.228ab2f0.chunk.css.map": "/Team-Project/public/static/css/4.228ab2f0.chunk.css.map",
+    "static/css/main.780a1ba8.chunk.css.map": "/Team-Project/public/static/css/main.780a1ba8.chunk.css.map",
+    "static/media/logo.png": "/Team-Project/public/static/media/logo.da6ec07e.png",
+    "static/media/slide_1.jpg": "/Team-Project/public/static/media/slide_1.67137dca.jpg",
+    "static/media/slide_2.jpg": "/Team-Project/public/static/media/slide_2.d2707581.jpg",
+    "static/media/slide_3.jpg": "/Team-Project/public/static/media/slide_3.0736f682.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1299d593.js",
+    "static/js/2.48b3d0a1.chunk.js",
+    "static/css/main.780a1ba8.chunk.css",
+    "static/js/main.0c12d4bb.chunk.js"
+  ]
+}
